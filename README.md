@@ -2,7 +2,7 @@
 audio spectrum tool
 ```
 npm i
-node run server.js
+node server.js
 
 browse to http://localhost:3000
 
